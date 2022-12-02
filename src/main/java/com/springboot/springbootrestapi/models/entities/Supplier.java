@@ -3,8 +3,6 @@ package com.springboot.springbootrestapi.models.entities;
 import java.io.Serializable;
 import java.util.Set;
 
-import org.hibernate.annotations.ManyToAny;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
